@@ -1,0 +1,5 @@
+{
+  "name": "Padel Score Counter",
+  "description": "A specialized Padel score tracker designed for Bluetooth remote control using volume buttons.",
+  "requestFramePermissions": []
+}
